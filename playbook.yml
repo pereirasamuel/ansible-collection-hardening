@@ -1,0 +1,5 @@
+---
+name: CPGOIAS3 Ansible Hardening
+hosts: all
+roles:
+  - os_hardening
